@@ -30,6 +30,13 @@
 3. R 프로그램에서 감성 분석을 실시
 4. 다이어트 보조 식품의 그룹별 온라인 평판 분석 실시
 5.SNS 댓글과 후기를 참고하여 다이어트를 주제로 한 감성 사전을 구축
-   * World Health Organization Adverse Reaction Terminology (이하 “WHOART”라 함)에 정의된 부작용을 나타내는 표준 단어들에 가중치를 부과
+   * World Health Organization Adverse Reaction Terminology 에 정의된 부작용을 나타내는 표준 단어들에 가중치를 부과
 6. 부정 점수를 산정
+
+
+
+
+
+
+
  
